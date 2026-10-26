@@ -1,0 +1,10 @@
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-groq
+sentence-transformers
+chromadb
+python-dotenv
+langgraph
+langsmith
+rank-bm25
